@@ -27,9 +27,9 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 ### Setup
-
 ### Install
-
+**Please run**
+**npm install**
 ### Usage
 
 ### Run tests
