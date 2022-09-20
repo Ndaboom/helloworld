@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "stylelint": "^14.12.0"
+  },
+  "name": "helloworld",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "hint": "^7.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ndaboom/helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ndaboom/helloworld/issues"
+  },
+  "homepage": "https://github.com/Ndaboom/helloworld#readme"
+}
